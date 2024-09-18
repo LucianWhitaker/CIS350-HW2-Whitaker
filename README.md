@@ -1,11 +1,11 @@
 # CIS350-HW2-Whitaker
 # Lucian Whitaker
 ## Interests
-* I enjoy building computers
+* Building computers
 
-* I enjoy playing golf
+* Playing golf
 
-* I enjoy coding in Python
+* Watching Football with friends
 ## Technical Background
 * Python
 * Linux
